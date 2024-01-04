@@ -1,0 +1,6 @@
+data/
+data_covid/
+src/vision_transformer/tf_model.h5
+src/vision_transformer/models
+src/vision_transformer/best-weights.pt
+
